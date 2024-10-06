@@ -1,5 +1,4 @@
 # Portfolio-Value-and-Return-Calculation-System
-# Portfolio Value and Return Calculation System
 
 ## Project Overview
 The **Portfolio Value and Return Calculation System** is a Python-based tool designed to process investment transaction data and provide essential financial metrics, including net units, net values, total portfolio value, and XIRR (Extended Internal Rate of Return). The system simplifies portfolio management by automating calculations that help investors assess the performance of their investments.
